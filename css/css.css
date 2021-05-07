@@ -41,7 +41,7 @@ header ul li{
     height: 500px;
     display: block;
     box-sizing: border-box;
-    background-image: url(../img/imgGoogle.png);
+    background-image: url(../img/fondoimg.png);
     background-size: cover;
 }
 .caja_contenedora h1{
@@ -157,19 +157,19 @@ header ul li{
 .correo{
     text-align: center;
     font-family: 'Nanum Gothic', sans-serif;
-    color: #F5F5DC;
+    color: beige;
     
 }
 .caja_1{
-    background-image: url(../img/primera.png);
+    background-image: url(../img/imagen1.png);
     background-size: cover;
 }
 .caja_2{
-    background-image: url(../img/segunda.png);
+    background-image: url(../img/imagen2.png);
     background-size: cover;
 }
 .caja_3{
-    background-image: url(../img/tercera.png);
+    background-image: url(../img/imagen3.png);
     background-size: cover;
 }
 
